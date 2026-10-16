@@ -1,0 +1,18 @@
+# CZĘŚĆ III. DOKUMENTACJA
+
+**Nazwa projektu:** SP2 – Zapisy do sekcji
+
+**Imię i nazwisko:** Oliwier Studziński
+
+**Data wykonania:** 16.10.2026
+
+## 1. Informacje o środowisku pracy
+
+- **System operacyjny:** Microsoft Windows 10 
+- **Środowisko programistyczne:** Visual Studio Code 
+- **Języki programowania:** JavaScript, HTML, CSS
+- **Framework:** React
+- **Biblioteki:** Bootstrap 5
+- **Narzędzia:** Node.js, npm
+- **Przeglądarka internetowa:** Microsoft Edge
+
